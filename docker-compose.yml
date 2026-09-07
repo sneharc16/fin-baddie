@@ -1,0 +1,21 @@
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: groww-delta-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: groww_delta
+      POSTGRES_PASSWORD: groww_delta
+      POSTGRES_DB: groww_delta
+    ports:
+      - "5432:5432"
+    volumes:
+      - groww_delta_postgres:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U groww_delta -d groww_delta"]
+      interval: 3s
+      timeout: 3s
+      retries: 10
+
+volumes:
+  groww_delta_postgres:

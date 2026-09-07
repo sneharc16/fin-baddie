@@ -1,0 +1,333 @@
+generator client {
+  provider = "prisma-client"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum IntentType {
+  PRICE_LEVEL
+  EARNINGS
+  DIVIDEND
+  TECHNICAL
+  COMPANY_EVENT
+  DRIVER
+  LONG_TERM
+  GENERAL
+}
+
+enum IntentStatus {
+  ACTIVE
+  SUPERSEDED
+  RESOLVED
+  ARCHIVED
+}
+
+enum ProvenanceSource {
+  MANUAL
+  STOCK_DETAIL
+  SCREENER_NEAR_BREAKOUT
+  RESULTS_CALENDAR
+  DIVIDEND_SCREEN
+  NEWS_CONTEXT
+  IMPORTED_DEMO
+}
+
+enum MarketQuality {
+  FRESH
+  DELAYED
+  STALE
+  CONFLICTING
+  CORRECTED
+}
+
+enum MarketEventType {
+  QUOTE_UPDATE
+  RESULTS_PUBLISHED
+  TECHNICAL_TRANSITION
+  CORPORATE_EVENT
+  EXTERNAL_DRIVER
+  NEWS_EVENT
+}
+
+enum EventSubjectType {
+  INSTRUMENT
+  METRIC
+  DRIVER
+  EXTERNAL_DRIVER
+  EVENT_CATEGORY
+  PRICE_CONDITION
+}
+
+enum WatchGraphStatus {
+  ACTIVE
+  SUPERSEDED
+  ARCHIVED
+}
+
+enum WatchGraphNodeType {
+  INSTRUMENT
+  QUESTION
+  METRIC
+  DRIVER
+  EXTERNAL_DRIVER
+  EVENT_CATEGORY
+  PRICE_CONDITION
+}
+
+enum WatchGraphRelationship {
+  WATCHES
+  RELATES_TO
+  MEASURED_BY
+  AFFECTED_BY
+  TRIGGERED_BY
+  CONTEXT_FOR
+}
+
+enum GraphProvenance {
+  MANUAL
+  CURATED_TEMPLATE
+  IMPORTED_DEMO
+}
+
+enum AcknowledgementScope {
+  INSTRUMENT
+  WATCHLIST
+}
+
+model User {
+  id               String                     @id
+  displayName      String
+  createdAt        DateTime                   @default(now()) @db.Timestamptz(3)
+  updatedAt        DateTime                   @updatedAt @db.Timestamptz(3)
+  watchlists       Watchlist[]
+  watchIntents     WatchIntent[]
+  knowledgeCursors KnowledgeCursor[]
+  watchGraphs      WatchGraph[]
+  acknowledgements KnowledgeAcknowledgement[]
+}
+
+model Instrument {
+  id               String                     @id
+  symbol           String
+  exchange         String
+  name             String
+  sector           String?
+  currency         String                     @default("INR")
+  isActive         Boolean                    @default(true)
+  createdAt        DateTime                   @default(now()) @db.Timestamptz(3)
+  updatedAt        DateTime                   @updatedAt @db.Timestamptz(3)
+  watchlistItems   WatchlistItem[]
+  watchIntents     WatchIntent[]
+  snapshots        MarketSnapshot[]
+  marketEvents     MarketEvent[]
+  knowledgeCursors KnowledgeCursor[]
+  watchGraphs      WatchGraph[]
+  acknowledgements KnowledgeAcknowledgement[]
+
+  @@unique([exchange, symbol])
+}
+
+model Watchlist {
+  id        String          @id @default(cuid())
+  userId    String
+  name      String
+  createdAt DateTime        @default(now()) @db.Timestamptz(3)
+  updatedAt DateTime        @updatedAt @db.Timestamptz(3)
+  user      User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  items     WatchlistItem[]
+
+  @@index([userId])
+}
+
+model WatchlistItem {
+  id                  String           @id @default(cuid())
+  watchlistId         String
+  instrumentId        String
+  addedAt             DateTime         @default(now()) @db.Timestamptz(3)
+  archivedAt          DateTime?        @db.Timestamptz(3)
+  provenanceSource    ProvenanceSource
+  provenanceReference String?
+  watchlist           Watchlist        @relation(fields: [watchlistId], references: [id], onDelete: Cascade)
+  instrument          Instrument       @relation(fields: [instrumentId], references: [id], onDelete: Restrict)
+
+  @@index([watchlistId, archivedAt])
+  @@index([instrumentId])
+}
+
+model WatchIntent {
+  id                               String           @id @default(cuid())
+  logicalIntentId                  String
+  userId                           String
+  instrumentId                     String
+  type                             IntentType
+  originalText                     String?
+  structuredPayload                Json
+  provenanceSource                 ProvenanceSource
+  provenanceReference              String?
+  status                           IntentStatus     @default(ACTIVE)
+  version                          Int
+  effectiveFromSequence            Int
+  resolvedAt                       DateTime?        @db.Timestamptz(3)
+  resolvedAtSequence               Int?
+  lifecycleReviewedThroughSequence Int?
+  supersedesId                     String?          @unique
+  horizon                          String?
+  expiresAt                        DateTime?        @db.Timestamptz(3)
+  createdAt                        DateTime         @default(now()) @db.Timestamptz(3)
+  updatedAt                        DateTime         @updatedAt @db.Timestamptz(3)
+  user                             User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  instrument                       Instrument       @relation(fields: [instrumentId], references: [id], onDelete: Restrict)
+  supersedes                       WatchIntent?     @relation("IntentVersions", fields: [supersedesId], references: [id], onDelete: Restrict)
+  supersededBy                     WatchIntent?     @relation("IntentVersions")
+
+  @@unique([logicalIntentId, version])
+  @@index([userId, instrumentId, status])
+}
+
+model KnowledgeCursor {
+  id                     String          @id @default(cuid())
+  userId                 String
+  instrumentId           String
+  lastSeenSequence       Int
+  lastSeenEventTime      DateTime?       @db.Timestamptz(3)
+  lastObservedSnapshotId String?
+  cursorVersion          Int             @default(1)
+  createdAt              DateTime        @default(now()) @db.Timestamptz(3)
+  updatedAt              DateTime        @updatedAt @db.Timestamptz(3)
+  user                   User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+  instrument             Instrument      @relation(fields: [instrumentId], references: [id], onDelete: Restrict)
+  lastObservedSnapshot   MarketSnapshot? @relation(fields: [lastObservedSnapshotId], references: [id], onDelete: SetNull)
+
+  @@unique([userId, instrumentId])
+}
+
+model MarketSnapshot {
+  id                       String            @id
+  instrumentId             String
+  sequence                 Int
+  eventTime                DateTime          @db.Timestamptz(3)
+  pricePaise               Int
+  openPaise                Int
+  highPaise                Int
+  lowPaise                 Int
+  cumulativeVolume         BigInt
+  expectedCumulativeVolume BigInt?
+  expectedStepMoveBps      Int?
+  source                   String
+  quality                  MarketQuality
+  createdAt                DateTime          @default(now()) @db.Timestamptz(3)
+  instrument               Instrument        @relation(fields: [instrumentId], references: [id], onDelete: Cascade)
+  observedByCursors        KnowledgeCursor[]
+
+  @@unique([instrumentId, sequence])
+  @@index([sequence])
+}
+
+model MarketEvent {
+  id             String            @id
+  sequence       Int
+  instrumentId   String?
+  type           MarketEventType
+  eventTime      DateTime          @db.Timestamptz(3)
+  receivedTime   DateTime          @db.Timestamptz(3)
+  source         String
+  quality        MarketQuality
+  payload        Json
+  subjectType    EventSubjectType?
+  subjectKey     String?
+  tags           String[]          @default([])
+  correctionOfId String?
+  createdAt      DateTime          @default(now()) @db.Timestamptz(3)
+  instrument     Instrument?       @relation(fields: [instrumentId], references: [id], onDelete: Restrict)
+  correctionOf   MarketEvent?      @relation("EventCorrections", fields: [correctionOfId], references: [id], onDelete: Restrict)
+  corrections    MarketEvent[]     @relation("EventCorrections")
+
+  @@index([sequence])
+  @@index([instrumentId, sequence])
+}
+
+model WatchGraph {
+  id                    String           @id
+  logicalGraphId        String
+  userId                String
+  instrumentId          String
+  watchIntentLogicalId  String
+  version               Int
+  status                WatchGraphStatus @default(ACTIVE)
+  provenance            GraphProvenance
+  templateKey           String?
+  effectiveFromSequence Int
+  supersedesId          String?          @unique
+  createdAt             DateTime         @default(now()) @db.Timestamptz(3)
+  updatedAt             DateTime         @updatedAt @db.Timestamptz(3)
+  user                  User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  instrument            Instrument       @relation(fields: [instrumentId], references: [id], onDelete: Restrict)
+  supersedes            WatchGraph?      @relation("GraphVersions", fields: [supersedesId], references: [id], onDelete: Restrict)
+  supersededBy          WatchGraph?      @relation("GraphVersions")
+  nodes                 WatchGraphNode[]
+  edges                 WatchGraphEdge[]
+
+  @@unique([logicalGraphId, version])
+  @@index([userId, watchIntentLogicalId, status])
+  @@index([instrumentId])
+}
+
+model WatchGraphNode {
+  id        String             @id
+  graphId   String
+  nodeKey   String
+  type      WatchGraphNodeType
+  label     String
+  metadata  Json
+  createdAt DateTime           @default(now()) @db.Timestamptz(3)
+  graph     WatchGraph         @relation(fields: [graphId], references: [id], onDelete: Cascade)
+  outgoing  WatchGraphEdge[]   @relation("GraphEdgeFrom")
+  incoming  WatchGraphEdge[]   @relation("GraphEdgeTo")
+
+  @@unique([graphId, nodeKey])
+  @@index([graphId, type])
+}
+
+model WatchGraphEdge {
+  id           String                 @id
+  graphId      String
+  fromNodeId   String
+  toNodeId     String
+  relationship WatchGraphRelationship
+  weight       Int                    @default(100)
+  createdAt    DateTime               @default(now()) @db.Timestamptz(3)
+  graph        WatchGraph             @relation(fields: [graphId], references: [id], onDelete: Cascade)
+  fromNode     WatchGraphNode         @relation("GraphEdgeFrom", fields: [fromNodeId], references: [id], onDelete: Cascade)
+  toNode       WatchGraphNode         @relation("GraphEdgeTo", fields: [toNodeId], references: [id], onDelete: Cascade)
+
+  @@unique([graphId, fromNodeId, toNodeId, relationship])
+  @@index([fromNodeId])
+  @@index([toNodeId])
+}
+
+model KnowledgeAcknowledgement {
+  id              String               @id @default(cuid())
+  userId          String
+  instrumentId    String
+  fromSequence    Int
+  throughSequence Int
+  scope           AcknowledgementScope
+  acknowledgedAt  DateTime             @default(now()) @db.Timestamptz(3)
+  user            User                 @relation(fields: [userId], references: [id], onDelete: Cascade)
+  instrument      Instrument           @relation(fields: [instrumentId], references: [id], onDelete: Restrict)
+
+  @@index([userId, instrumentId, throughSequence])
+}
+
+model DemoSession {
+  id              String   @id
+  scenarioId      String
+  currentStep     Int
+  currentSequence Int
+  currentTime     DateTime @db.Timestamptz(3)
+  createdAt       DateTime @default(now()) @db.Timestamptz(3)
+  updatedAt       DateTime @updatedAt @db.Timestamptz(3)
+}
