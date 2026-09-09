@@ -8,6 +8,7 @@ const links = [
   { href: "/", label: "Catch Up" },
   { href: "/watchlist", label: "Watchlist" },
   { href: "/demo", label: "Demo" },
+  { href: "/research", label: "Research" },
 ];
 
 export function AppHeader() {

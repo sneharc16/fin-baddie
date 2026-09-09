@@ -1,0 +1,7158 @@
+[
+  {
+    "episodeId": "ep-EARNINGS_MISS_TCS-0",
+    "scenarioKey": "EARNINGS_MISS_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 9.549999999990177,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_MISS_TCS-1",
+    "scenarioKey": "EARNINGS_MISS_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 3.780000000006112,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_MISS_TCS-2",
+    "scenarioKey": "EARNINGS_MISS_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 3.020000000105938,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_MISS_TCS-3",
+    "scenarioKey": "EARNINGS_MISS_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 2.7499999998781277,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_BEAT_INFY-0",
+    "scenarioKey": "EARNINGS_BEAT_INFY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 3.540000000157306,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_BEAT_INFY-1",
+    "scenarioKey": "EARNINGS_BEAT_INFY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 3.6700000000564614,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_BEAT_INFY-2",
+    "scenarioKey": "EARNINGS_BEAT_INFY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 3.6999999999807187,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_BEAT_INFY-3",
+    "scenarioKey": "EARNINGS_BEAT_INFY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 3.0299999998533167,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_HDFC_ASSET_QUALITY-0",
+    "scenarioKey": "EARNINGS_HDFC_ASSET_QUALITY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 2.660000000105356,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_HDFC_ASSET_QUALITY-1",
+    "scenarioKey": "EARNINGS_HDFC_ASSET_QUALITY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 6.480000000010477,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_HDFC_ASSET_QUALITY-2",
+    "scenarioKey": "EARNINGS_HDFC_ASSET_QUALITY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 4.239999999981592,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_HDFC_ASSET_QUALITY-3",
+    "scenarioKey": "EARNINGS_HDFC_ASSET_QUALITY",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.739999999950669,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_WRONG_QUARTER_WIPRO-0",
+    "scenarioKey": "EARNINGS_WRONG_QUARTER_WIPRO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.4099999998743442,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_WRONG_QUARTER_WIPRO-1",
+    "scenarioKey": "EARNINGS_WRONG_QUARTER_WIPRO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.32000000010157237,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_WRONG_QUARTER_WIPRO-2",
+    "scenarioKey": "EARNINGS_WRONG_QUARTER_WIPRO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.6300000000010186,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_WRONG_QUARTER_WIPRO-3",
+    "scenarioKey": "EARNINGS_WRONG_QUARTER_WIPRO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.30999999989944627,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_RESULTS_ALL_FOCUS-0",
+    "scenarioKey": "EARNINGS_RESULTS_ALL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.27000000000043656,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_RESULTS_ALL_FOCUS-1",
+    "scenarioKey": "EARNINGS_RESULTS_ALL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_RESULTS_ALL_FOCUS-2",
+    "scenarioKey": "EARNINGS_RESULTS_ALL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.739999999950669,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_RESULTS_ALL_FOCUS-3",
+    "scenarioKey": "EARNINGS_RESULTS_ALL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.3000000001520675,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_LARGE_PRICE_MOVE_TCS-0",
+    "scenarioKey": "EARNINGS_LARGE_PRICE_MOVE_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_LARGE_PRICE_MOVE_TCS-1",
+    "scenarioKey": "EARNINGS_LARGE_PRICE_MOVE_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.30999999989944627,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_LARGE_PRICE_MOVE_TCS-2",
+    "scenarioKey": "EARNINGS_LARGE_PRICE_MOVE_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.37999999995008693,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_LARGE_PRICE_MOVE_TCS-3",
+    "scenarioKey": "EARNINGS_LARGE_PRICE_MOVE_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.27000000000043656,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_GRAPH_INDIGO_FUEL-0",
+    "scenarioKey": "EARNINGS_GRAPH_INDIGO_FUEL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.3000000001520675,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_GRAPH_INDIGO_FUEL-1",
+    "scenarioKey": "EARNINGS_GRAPH_INDIGO_FUEL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_GRAPH_INDIGO_FUEL-2",
+    "scenarioKey": "EARNINGS_GRAPH_INDIGO_FUEL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.31000000012681994,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_GRAPH_INDIGO_FUEL-3",
+    "scenarioKey": "EARNINGS_GRAPH_INDIGO_FUEL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.35000000002582965,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_PROMISING_MARGINS-0",
+    "scenarioKey": "EARNINGS_PROMISING_MARGINS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.27000000000043656,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_PROMISING_MARGINS-1",
+    "scenarioKey": "EARNINGS_PROMISING_MARGINS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 0.4099999998743442,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_PROMISING_MARGINS-2",
+    "scenarioKey": "EARNINGS_PROMISING_MARGINS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_PROMISING_MARGINS-3",
+    "scenarioKey": "EARNINGS_PROMISING_MARGINS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_ABOVE_SBIN-0",
+    "scenarioKey": "PRICE_CROSSED_ABOVE_SBIN",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 0,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_ABOVE_SBIN-1",
+    "scenarioKey": "PRICE_CROSSED_ABOVE_SBIN",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_ABOVE_SBIN-2",
+    "scenarioKey": "PRICE_CROSSED_ABOVE_SBIN",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_ABOVE_SBIN-3",
+    "scenarioKey": "PRICE_CROSSED_ABOVE_SBIN",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NEAR_ZONE_REL-0",
+    "scenarioKey": "PRICE_NEAR_ZONE_REL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 80,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NEAR_ZONE_REL-1",
+    "scenarioKey": "PRICE_NEAR_ZONE_REL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 60,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 80,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NEAR_ZONE_REL-2",
+    "scenarioKey": "PRICE_NEAR_ZONE_REL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NEAR_ZONE_REL-3",
+    "scenarioKey": "PRICE_NEAR_ZONE_REL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 80,
+      "confidence": 100
+    },
+    "latencyUs": 0.35000000002582965,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_BELOW_HDFC-0",
+    "scenarioKey": "PRICE_CROSSED_BELOW_HDFC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_BELOW_HDFC-1",
+    "scenarioKey": "PRICE_CROSSED_BELOW_HDFC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 60,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.26000000002568413,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_BELOW_HDFC-2",
+    "scenarioKey": "PRICE_CROSSED_BELOW_HDFC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.3000000001520675,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_BELOW_HDFC-3",
+    "scenarioKey": "PRICE_CROSSED_BELOW_HDFC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 6.810000000086802,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NO_MATCH_CLOSE-0",
+    "scenarioKey": "PRICE_NO_MATCH_CLOSE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 0,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.6900000000769069,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NO_MATCH_CLOSE-1",
+    "scenarioKey": "PRICE_NO_MATCH_CLOSE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.30999999989944627,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NO_MATCH_CLOSE-2",
+    "scenarioKey": "PRICE_NO_MATCH_CLOSE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NO_MATCH_CLOSE-3",
+    "scenarioKey": "PRICE_NO_MATCH_CLOSE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2900000001773151,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_LARGE_MOVE_NO_INTENT-0",
+    "scenarioKey": "PRICE_LARGE_MOVE_NO_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 0,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_LARGE_MOVE_NO_INTENT-1",
+    "scenarioKey": "PRICE_LARGE_MOVE_NO_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_LARGE_MOVE_NO_INTENT-2",
+    "scenarioKey": "PRICE_LARGE_MOVE_NO_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_LARGE_MOVE_NO_INTENT-3",
+    "scenarioKey": "PRICE_LARGE_MOVE_NO_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_GRAPH_TATA_BREAKOUT-0",
+    "scenarioKey": "PRICE_GRAPH_TATA_BREAKOUT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.28000000020256266,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_GRAPH_TATA_BREAKOUT-1",
+    "scenarioKey": "PRICE_GRAPH_TATA_BREAKOUT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_GRAPH_TATA_BREAKOUT-2",
+    "scenarioKey": "PRICE_GRAPH_TATA_BREAKOUT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.27000000000043656,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_GRAPH_TATA_BREAKOUT-3",
+    "scenarioKey": "PRICE_GRAPH_TATA_BREAKOUT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.27000000000043656,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_STALE_DATA-0",
+    "scenarioKey": "PRICE_STALE_DATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 0,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_STALE_DATA-1",
+    "scenarioKey": "PRICE_STALE_DATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.3600000000005821,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_STALE_DATA-2",
+    "scenarioKey": "PRICE_STALE_DATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_STALE_DATA-3",
+    "scenarioKey": "PRICE_STALE_DATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_DOUBLE_INTENT-0",
+    "scenarioKey": "PRICE_DOUBLE_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_DOUBLE_INTENT-1",
+    "scenarioKey": "PRICE_DOUBLE_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 60,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 0.3299999998489511,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_DOUBLE_INTENT-2",
+    "scenarioKey": "PRICE_DOUBLE_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_DOUBLE_INTENT-3",
+    "scenarioKey": "PRICE_DOUBLE_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-0",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-1",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-2",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 0.2900000001773151,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-3",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.2900000001773151,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-4",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-5",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.8700000000771979,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-6",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.7800000000770524,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-7",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 70,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 232.68000000007305,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-0",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.8199999999760621,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-1",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 0.41999999984909664,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-2",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 0.26000000002568413,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-3",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.2500000000509317,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-4",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.3600000000005821,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-5",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.23000000010142685,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-6",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.24000000007617928,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-7",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 80,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 79.05899999991561,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-0",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.46999999995023245,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-1",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.42999999982384907,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-2",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.22999999987405317,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-3",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.22000000012667442,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-4",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.22999999987405317,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-5",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.210000000151922,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-6",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.21999999989930075,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-7",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 31.52999999997519,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-0",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-1",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.21999999989930075,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-2",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.3299999998489511,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-3",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.21999999989930075,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-4",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.19000000020241714,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-5",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.22999999987405317,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-6",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.3199999998741987,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-7",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 34,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 52.84000000006017,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_INDIGO-0",
+    "scenarioKey": "DRIVER_CRUDE_INDIGO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_INDIGO-1",
+    "scenarioKey": "DRIVER_CRUDE_INDIGO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.20999999992454832,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_INDIGO-2",
+    "scenarioKey": "DRIVER_CRUDE_INDIGO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.3400000000510772,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_INDIGO-3",
+    "scenarioKey": "DRIVER_CRUDE_INDIGO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.24000000007617928,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_INDIGO-4",
+    "scenarioKey": "DRIVER_CRUDE_INDIGO",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 88,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 68.80999999998494,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_NO_GRAPH-0",
+    "scenarioKey": "DRIVER_CRUDE_NO_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.32000000010157237,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_NO_GRAPH-1",
+    "scenarioKey": "DRIVER_CRUDE_NO_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.5799999998998828,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_NO_GRAPH-2",
+    "scenarioKey": "DRIVER_CRUDE_NO_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.4200000000764703,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_NO_GRAPH-3",
+    "scenarioKey": "DRIVER_CRUDE_NO_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_NO_GRAPH-4",
+    "scenarioKey": "DRIVER_CRUDE_NO_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 37,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 50.00999999992928,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_USDINR_WEAK-0",
+    "scenarioKey": "DRIVER_USDINR_WEAK",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 70,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.5000000001018634,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_USDINR_WEAK-1",
+    "scenarioKey": "DRIVER_USDINR_WEAK",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 70,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.20999999992454832,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_USDINR_WEAK-2",
+    "scenarioKey": "DRIVER_USDINR_WEAK",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 70,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1999999999497959,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_USDINR_WEAK-3",
+    "scenarioKey": "DRIVER_USDINR_WEAK",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 70,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.24000000007617928,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_USDINR_WEAK-4",
+    "scenarioKey": "DRIVER_USDINR_WEAK",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 83,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 70,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 67.14999999985594,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_STALE_EVENT-0",
+    "scenarioKey": "DRIVER_STALE_EVENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 30
+    },
+    "latencyUs": 0.1999999999497959,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_STALE_EVENT-1",
+    "scenarioKey": "DRIVER_STALE_EVENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 30
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_STALE_EVENT-2",
+    "scenarioKey": "DRIVER_STALE_EVENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 30
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_STALE_EVENT-3",
+    "scenarioKey": "DRIVER_STALE_EVENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 30
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_STALE_EVENT-4",
+    "scenarioKey": "DRIVER_STALE_EVENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 4,
+        "score": 48,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 37,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 30
+    },
+    "latencyUs": 46.93999999994958,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_UNRELATED_DRIVER-0",
+    "scenarioKey": "DRIVER_UNRELATED_DRIVER",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.22000000012667442,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_UNRELATED_DRIVER-1",
+    "scenarioKey": "DRIVER_UNRELATED_DRIVER",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_UNRELATED_DRIVER-2",
+    "scenarioKey": "DRIVER_UNRELATED_DRIVER",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_UNRELATED_DRIVER-3",
+    "scenarioKey": "DRIVER_UNRELATED_DRIVER",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.38999999992483936,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_UNRELATED_DRIVER-4",
+    "scenarioKey": "DRIVER_UNRELATED_DRIVER",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 37,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 36.35899999994763,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_MULTI_DRIVER_GRAPH-0",
+    "scenarioKey": "DRIVER_MULTI_DRIVER_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.2899999999499414,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_MULTI_DRIVER_GRAPH-1",
+    "scenarioKey": "DRIVER_MULTI_DRIVER_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 0
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_MULTI_DRIVER_GRAPH-2",
+    "scenarioKey": "DRIVER_MULTI_DRIVER_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_MULTI_DRIVER_GRAPH-3",
+    "scenarioKey": "DRIVER_MULTI_DRIVER_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_MULTI_DRIVER_GRAPH-4",
+    "scenarioKey": "DRIVER_MULTI_DRIVER_GRAPH",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 91,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 6,
+        "score": 83,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 70,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 72.20000000006621,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-0",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-1",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-2",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-3",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-4",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.18999999997504347,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-5",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.13999999987390765,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-6",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-7",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 32.150000000001455,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-0",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-1",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-2",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.1599999998234125,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-3",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-4",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-5",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.13999999987390765,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-6",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-7",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 28.92999999994572,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-0",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.2399999998488056,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-1",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-2",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-3",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-4",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-5",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-6",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-7",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 28.07999999981803,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-0",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.210000000151922,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-1",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-2",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.279999999975189,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-3",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.16999999979816494,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-4",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-5",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-6",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1599999998234125,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-7",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 29.24000000007254,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-0",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-1",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.1599999998234125,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-2",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-3",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-4",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1599999998234125,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-5",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-6",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.19000000020241714,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-7",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 33.450000000129876,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-0",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.20999999992454832,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-1",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.18999999997504347,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-2",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-3",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-4",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-5",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-6",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.26000000002568413,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-7",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 34,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 47.64999999997599,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-0",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.18999999997504347,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-1",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.26000000002568413,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-2",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-3",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.27000000000043656,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-4",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-5",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.14000000010128133,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-6",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.13999999987390765,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-7",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 27,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 56.479999999965,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-0",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.26000000002568413,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-1",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 0
+    },
+    "latencyUs": 0.4099999998743442,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-2",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-3",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.27000000000043656,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-4",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.2500000000509317,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-5",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1300000001265289,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-6",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-7",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 6,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 47.528999999940424,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-0",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 0.21999999989930075,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-1",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-2",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-3",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 0.30999999989944627,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-4",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-5",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-6",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 0.1599999998234125,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-7",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 1,
+        "score": 34,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 98.109999999906,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-0",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-1",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 0
+    },
+    "latencyUs": 0.26000000002568413,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-2",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 70
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-3",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.18999999997504347,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-4",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-5",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.14000000010128133,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-6",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-7",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 70,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 85.72000000003754,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-0",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-1",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-2",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-3",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 60,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-4",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.29999999992469384,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-5",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-6",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.13999999987390765,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-7",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 10,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 11,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 4,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 57.49999999989086,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-0",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-1",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 0
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-2",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 70
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-3",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-4",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.16999999979816494,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-5",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.14000000010128133,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-6",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 0.20000000017716957,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-7",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 6,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 43.049999999993815,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-0",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 0,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.3400000000510772,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-1",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 80,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.3299999998489511,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-2",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-3",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-4",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-5",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-6",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1599999998234125,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-7",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-8",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.14000000010128133,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-9",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-10",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 30,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-11",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 40,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-12",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 1,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 5,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 2,
+        "score": 48,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 45,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 35.90999999983069,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-13",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 6,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 1,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 36.86999999990803,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-14",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 4,
+        "score": 34,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 25.589000000081796,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-0",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.15000000007603376,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-1",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 60,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-2",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1999999999497959,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-3",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 50,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.22999999987405317,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-4",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.24000000007617928,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-5",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 70
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-6",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.1700000000255386,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-7",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.18000000000029104,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-8",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.14999999984866008,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-9",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 60,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.16000000005078618,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-10",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.26000000002568413,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-11",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [],
+    "components": {
+      "significance": 30,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 0.13999999987390765,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-12",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 2,
+        "score": 48,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 45,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 60,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 40.63999999993939,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-13",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 6,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 35.12000000000626,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-14",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 48,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 45.67999999994754,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_MISS_TCS-4",
+    "scenarioKey": "EARNINGS_MISS_TCS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 37,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 65.83999999998014,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_MISS_TCS-5",
+    "scenarioKey": "EARNINGS_MISS_TCS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 44.4199999999455,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_BEAT_INFY-4",
+    "scenarioKey": "EARNINGS_BEAT_INFY",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 94,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 60.259999999971114,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_BEAT_INFY-5",
+    "scenarioKey": "EARNINGS_BEAT_INFY",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 1,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 65.02000000000407,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_HDFC_ASSET_QUALITY-4",
+    "scenarioKey": "EARNINGS_HDFC_ASSET_QUALITY",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 94,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 61.61900000006426,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_HDFC_ASSET_QUALITY-5",
+    "scenarioKey": "EARNINGS_HDFC_ASSET_QUALITY",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 59.099999999943975,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_WRONG_QUARTER_WIPRO-4",
+    "scenarioKey": "EARNINGS_WRONG_QUARTER_WIPRO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 37,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 42.14000000001761,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_WRONG_QUARTER_WIPRO-5",
+    "scenarioKey": "EARNINGS_WRONG_QUARTER_WIPRO",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 36.69999999988249,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_RESULTS_ALL_FOCUS-4",
+    "scenarioKey": "EARNINGS_RESULTS_ALL_FOCUS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 94,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 64.79000000013002,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_RESULTS_ALL_FOCUS-5",
+    "scenarioKey": "EARNINGS_RESULTS_ALL_FOCUS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 1,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 65.42999999987842,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_LARGE_PRICE_MOVE_TCS-4",
+    "scenarioKey": "EARNINGS_LARGE_PRICE_MOVE_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 40.199999999913416,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_LARGE_PRICE_MOVE_TCS-5",
+    "scenarioKey": "EARNINGS_LARGE_PRICE_MOVE_TCS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 37.34899999994923,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_GRAPH_INDIGO_FUEL-4",
+    "scenarioKey": "EARNINGS_GRAPH_INDIGO_FUEL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 55.10000000003856,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_GRAPH_INDIGO_FUEL-5",
+    "scenarioKey": "EARNINGS_GRAPH_INDIGO_FUEL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 59.6499999999196,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_PROMISING_MARGINS-4",
+    "scenarioKey": "EARNINGS_PROMISING_MARGINS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 37,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 44.700000000148066,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-EARNINGS_PROMISING_MARGINS-5",
+    "scenarioKey": "EARNINGS_PROMISING_MARGINS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 33.92000000008011,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_ABOVE_SBIN-4",
+    "scenarioKey": "PRICE_CROSSED_ABOVE_SBIN",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 52.72000000013577,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NEAR_ZONE_REL-4",
+    "scenarioKey": "PRICE_NEAR_ZONE_REL",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 71.06999999996333,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_CROSSED_BELOW_HDFC-4",
+    "scenarioKey": "PRICE_CROSSED_BELOW_HDFC",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 9,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 100,
+      "confidence": 100
+    },
+    "latencyUs": 139.458999999988,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_NO_MATCH_CLOSE-4",
+    "scenarioKey": "PRICE_NO_MATCH_CLOSE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 59.34999999999491,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_LARGE_MOVE_NO_INTENT-4",
+    "scenarioKey": "PRICE_LARGE_MOVE_NO_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 35.679999999956635,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_GRAPH_TATA_BREAKOUT-4",
+    "scenarioKey": "PRICE_GRAPH_TATA_BREAKOUT",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 94,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 49,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 60.17000000019834,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_STALE_DATA-4",
+    "scenarioKey": "PRICE_STALE_DATA",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 40,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 53.970000000163054,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-PRICE_DOUBLE_INTENT-4",
+    "scenarioKey": "PRICE_DOUBLE_INTENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 53.8299999998344,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_BREAKOUT_TATA-8",
+    "scenarioKey": "TECH_BREAKOUT_TATA",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 0
+    },
+    "latencyUs": 43.94999999999527,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_SUPPORT_TCS-8",
+    "scenarioKey": "TECH_SUPPORT_TCS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 97,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 0
+    },
+    "latencyUs": 32.91899999999259,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_NO_MATCH_SETUP-8",
+    "scenarioKey": "TECH_NO_MATCH_SETUP",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 0
+    },
+    "latencyUs": 46.63000000005013,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-TECH_MA_TATAMOTORS-8",
+    "scenarioKey": "TECH_MA_TATAMOTORS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 87,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 9,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 80,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 47.4699999999757,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_INDIGO-5",
+    "scenarioKey": "DRIVER_CRUDE_INDIGO",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 91,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 67.18000000000757,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_CRUDE_NO_GRAPH-5",
+    "scenarioKey": "DRIVER_CRUDE_NO_GRAPH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 32.63999999990119,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_USDINR_WEAK-5",
+    "scenarioKey": "DRIVER_USDINR_WEAK",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 86,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 8,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 70,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 55.44000000008964,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_STALE_EVENT-5",
+    "scenarioKey": "DRIVER_STALE_EVENT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 4,
+        "score": 48,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 30
+    },
+    "latencyUs": 44.76999999997133,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_UNRELATED_DRIVER-5",
+    "scenarioKey": "DRIVER_UNRELATED_DRIVER",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 31.849999999849388,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DRIVER_MULTI_DRIVER_GRAPH-5",
+    "scenarioKey": "DRIVER_MULTI_DRIVER_GRAPH",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 91,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 6,
+        "score": 86,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 8,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 80,
+      "relevance": 85,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 79.03899999996611,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_EX_DATE_ITC-8",
+    "scenarioKey": "DIVIDEND_EX_DATE_ITC",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 0
+    },
+    "latencyUs": 32.26999999992586,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_ANNOUNCEMENT_TCS-8",
+    "scenarioKey": "DIVIDEND_ANNOUNCEMENT_TCS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 3,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 0
+    },
+    "latencyUs": 29.23000000009779,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_STAGE_MISMATCH-8",
+    "scenarioKey": "DIVIDEND_STAGE_MISMATCH",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 0
+    },
+    "latencyUs": 27.54000000004453,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-DIVIDEND_GENERAL_FOCUS-8",
+    "scenarioKey": "DIVIDEND_GENERAL_FOCUS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 0
+    },
+    "latencyUs": 29.080000000021755,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_BOARD_CHANGE-8",
+    "scenarioKey": "COMPANY_BOARD_CHANGE",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 0
+    },
+    "latencyUs": 32.789999999977226,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_ACQUISITION-8",
+    "scenarioKey": "COMPANY_ACQUISITION",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 86,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 9,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 8,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 90,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 43.05999999996857,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_UNMATCHED_KIND-8",
+    "scenarioKey": "COMPANY_UNMATCHED_KIND",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 5,
+        "score": 30,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 6,
+        "score": 24,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 0
+    },
+    "latencyUs": 30.919999999923675,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-COMPANY_MULTIPLE_EVENTS-8",
+    "scenarioKey": "COMPANY_MULTIPLE_EVENTS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 45,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 71.95000000001528,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_EARNINGS_PLUS_PRICE-8",
+    "scenarioKey": "MULTI_EARNINGS_PLUS_PRICE",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 5,
+        "score": 87,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 9,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 8,
+        "score": 42,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 79.15900000011789,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_DRIVER_PLUS_TECH-8",
+    "scenarioKey": "MULTI_DRIVER_PLUS_TECH",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 6,
+        "score": 87,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 7,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 37,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 70,
+      "confidence": 100
+    },
+    "latencyUs": 65.4899999999543,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_QUIET_AFTER_SPIKE-8",
+    "scenarioKey": "MULTI_QUIET_AFTER_SPIKE",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 1,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 3,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 10,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 56.85999999991509,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-MULTI_VOL_SPIKE_EVENTS-8",
+    "scenarioKey": "MULTI_VOL_SPIKE_EVENTS",
+    "score": 100,
+    "lane": "RELEVANT",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 96,
+        "lane": "RELEVANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 2,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 9,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 6,
+        "score": 45,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 7,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 100,
+      "relevance": 100,
+      "novelty": 100,
+      "urgency": 60,
+      "confidence": 100
+    },
+    "latencyUs": 47.280000000000655,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_NO_EVENTS-15",
+    "scenarioKey": "QUIET_NO_EVENTS",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 6,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 3,
+        "score": 34,
+        "lane": "QUIET"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 2,
+        "score": 33,
+        "lane": "SIGNIFICANT"
+      }
+    ],
+    "components": {
+      "significance": 0,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 30
+    },
+    "latencyUs": 24.809999999888532,
+    "graphNodesVisited": 0
+  },
+  {
+    "episodeId": "ep-QUIET_LOW_VOL_DRIFT-15",
+    "scenarioKey": "QUIET_LOW_VOL_DRIFT",
+    "score": 0,
+    "lane": "QUIET",
+    "rankedItems": [
+      {
+        "rank": 1,
+        "stepIndex": 4,
+        "score": 55,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 2,
+        "stepIndex": 5,
+        "score": 52,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 3,
+        "stepIndex": 6,
+        "score": 46,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 4,
+        "stepIndex": 9,
+        "score": 43,
+        "lane": "SIGNIFICANT"
+      },
+      {
+        "rank": 5,
+        "stepIndex": 3,
+        "score": 34,
+        "lane": "QUIET"
+      }
+    ],
+    "components": {
+      "significance": 70,
+      "relevance": 0,
+      "novelty": 100,
+      "urgency": 0,
+      "confidence": 100
+    },
+    "latencyUs": 37.58000000016182,
+    "graphNodesVisited": 0
+  }
+]
